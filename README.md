@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6E9EF5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+production-ready+AI+systems+%F0%9F%A4%96;FastAPI+%7C+React+%7C+PyTorch+%7C+NLP+%7C+Computer+Vision;From+ideas+%E2%86%92+deployed+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6E9EF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+production-ready+AI+systems+%F0%9F%A4%96;FastAPI+%7C+React+%7C+PyTorch+%7C+NLP+%7C+Computer+Vision;From+ideas+%E2%86%92+deployed+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,32 +22,62 @@
 ---
 
 ## ⚡ About Me
-```python
-class AnilKumar:
-    def __init__(self):
-        self.name       = "Gundu Anil Kumar"
-        self.role       = "AI & Full-Stack Developer"
-        self.location   = "Vijayawada, Andhra Pradesh 🇮🇳"
-        self.education  = "B.Tech CSE (AI) — Pragati Engineering College"
-        self.cgpa       = 7.5
 
-        self.credentials = [
-            "NCC C Certificate (2026) — 18(A) Battalion",
-            "MIDHANI Apprentice — Ministry of Defence, Govt. of India",
-            "Diploma Topper — Government Polytechnic Vijayawada"
-        ]
+<div align="center">
 
-        self.focus = [
-            "Production-ready ML pipelines",
-            "NLP-powered backend systems",
-            "Deep Learning & Computer Vision",
-            "End-to-end AI product development"
-        ]
+![AI](https://img.shields.io/badge/AI%20Engineer-0f0c29?style=for-the-badge&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Dev-302b63?style=for-the-badge&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-00b300?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-    def __str__(self):
-        return "I don't just learn concepts — I build, break, fix, and ship."
-```
+</div>
 
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**👤 Personal**
+| | |
+|---|---|
+| 🧑‍💻 | Gundu Anil Kumar |
+| 🎓 | B.Tech CSE (AI) — Pragati Engineering College |
+| 📍 | Vijayawada, Andhra Pradesh 🇮🇳 |
+| 📊 | CGPA: 7.5 |
+
+**🎖️ Credentials**
+| | |
+|---|---|
+| 🪖 | NCC C Certificate (2026) — 18(A) Battalion |
+| 🏛️ | MIDHANI Apprentice — Ministry of Defence |
+| 🥇 | Diploma Topper — Govt. Polytechnic Vijayawada |
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Currently Focused On**
+
+- 🤖 Production-ready ML pipelines
+- 💬 NLP-powered backend systems
+- 👁️ Deep Learning & Computer Vision
+- 🚀 End-to-end AI product development
+
+**💬 Ask Me About**
+
+- Python · FastAPI · Flask · REST APIs
+- NLP-based classification systems
+- Deep learning with PyTorch
+- Building AI products from scratch
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *"I don't just learn concepts — I build, break, fix, and ship."*
+
+</div>
 ---
 
 ## 🚀 Featured Projects
@@ -67,11 +97,11 @@ An AI-driven analytics platform that classifies transactions using **NLP**, scor
 
 **Key highlights:**
 - NLP transaction classifier with confidence scoring
-- Financial health scoring + anomaly detection engine
+- Financial health scoring and anomaly detection engine
 - Scalable REST APIs with modular architecture
 - Multi-source ingestion: manual, JSON, CSV
 
-[![Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1gvW8BgJLh0WSRQNNEKl7_6hU7dsgmpR_/view?usp=sharing)
+[![Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1gvW8BgJLh0WSRQNNEKl7_6hU7dsgmpR_/view?usp=sharing)
 
 </td>
 <td width="50%" valign="top">
@@ -83,15 +113,15 @@ An AI-driven analytics platform that classifies transactions using **NLP**, scor
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-A deep learning crowd counting system using **CSRNet + density map regression** trained on ShanghaiTech dataset, deployed as a real-time REST API.
+A deep learning crowd counting system using **CSRNet and density map regression** trained on ShanghaiTech dataset, deployed as a real-time REST API.
 
 **Key highlights:**
 - CSRNet model trained in PyTorch from scratch
-- Video frame → density map → count pipeline
+- Video frame to density map to count pipeline
 - Flask REST API with structured JSON inference
-- Evaluated with MAE & MSE across crowd densities
+- Evaluated with MAE and MSE across crowd densities
 
-[![Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g4GiBJr0MhA6T98b72mfFJCuV2e8DQ-P/view?usp=sharing)
+[![Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g4GiBJr0MhA6T98b72mfFJCuV2e8DQ-P/view?usp=sharing)
 
 </td>
 </tr>
@@ -116,20 +146,20 @@ A deep learning crowd counting system using **CSRNet + density map regression** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & APIs**
+**Backend and APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**AI / ML**
+**AI and ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Database & Tools**
+**Database and Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -140,16 +170,16 @@ A deep learning crowd counting system using **CSRNet + density map regression** 
 
 ---
 
-## 🏆 Achievements & Credentials
+## 🏆 Achievements and Credentials
 
 <div align="center">
 
-| 🎖️ | Achievement |
-|---|---|
+| Icon | Achievement |
+|------|-------------|
 | 🪖 | **NCC C Certificate (2026)** — 18(A) Battalion · One of NCC's highest qualifications · 2 camps completed |
 | 🏛️ | **MIDHANI Technical Apprenticeship** — Mishra Dhatu Nigam Ltd, Ministry of Defence, Govt. of India |
 | 🥇 | **Diploma Topper** — Top academic rank across all semesters · Government Polytechnic Vijayawada · 80.01% |
-| 📱 | **Instagram Growth** — Grew @limitlessmindset\_1 to 3,500+ followers in 2 months |
+| 📱 | **Instagram Growth** — Grew @limitlessmindset_1 to 3,500+ followers in 2 months |
 
 </div>
 
@@ -160,7 +190,7 @@ A deep learning crowd counting system using **CSRNet + density map regression** 
 <div align="center">
 
 [![Salesforce](https://img.shields.io/badge/Salesforce%20AI%20Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com)
-[![RapidMiner](https://img.shields.io/badge/Machine%20Learning%20--%20RapidMiner-FF6600?style=for-the-badge&logo=databricks&logoColor=white)](https://rapidminer.com)
+[![RapidMiner](https://img.shields.io/badge/Machine%20Learning%20RapidMiner-FF6600?style=for-the-badge&logo=databricks&logoColor=white)](https://rapidminer.com)
 [![Azure](https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://microsoft.com)
 
 </div>
