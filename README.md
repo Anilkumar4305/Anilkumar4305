@@ -57,6 +57,7 @@ class AnilKumar:
 <td width="50%" valign="top">
 
 ### 🏦 Financial Behavior Intelligence Platform
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -76,6 +77,7 @@ An AI-driven analytics platform that classifies transactions using **NLP**, scor
 <td width="50%" valign="top">
 
 ### 👥 AI Crowd Intelligence System (CSRNet)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -147,7 +149,7 @@ A deep learning crowd counting system using **CSRNet + density map regression** 
 | 🪖 | **NCC C Certificate (2026)** — 18(A) Battalion · One of NCC's highest qualifications · 2 camps completed |
 | 🏛️ | **MIDHANI Technical Apprenticeship** — Mishra Dhatu Nigam Ltd, Ministry of Defence, Govt. of India |
 | 🥇 | **Diploma Topper** — Top academic rank across all semesters · Government Polytechnic Vijayawada · 80.01% |
-| 📱 | **Instagram Growth** — Grew @limitlessmindset\_1 to 3,500+ followers in 2 months (Money Mindset & Self-Improvement) |
+| 📱 | **Instagram Growth** — Grew @limitlessmindset\_1 to 3,500+ followers in 2 months |
 
 </div>
 
