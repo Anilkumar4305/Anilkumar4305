@@ -78,7 +78,7 @@
 > *"I don't just learn concepts — I build, break, fix, and ship."*
 
 </div>
----
+
 
 ## 🚀 Featured Projects
 
